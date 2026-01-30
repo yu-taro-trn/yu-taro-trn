@@ -39,6 +39,11 @@ Webエンジニア転職に向けた学習・制作物をまとめています�
 - Bootstrap基礎
   - [bootstrap-basic-kadai](https://github.com/yu-taro-trn/bootstrap-basic-kadai)
 
+- Git系基礎 （GitHub・Gitの操作を学習）
+  - [github-basic-kadai](https://github.com/yu-taro-trn/github-basic-kadai)
+  - [git-basic-kadai](https://github.com/yu-taro-trn/git-basic-kadai)
+  - [git_challenge](https://github.com/yu-taro-trn/git_challenge)
+  
 
 ## 👤 About Me
 前職：RPAエンジニア  
