@@ -1,16 +1,45 @@
-## Hi there 👋
+# リポジトリ一覧
 
-<!--
-**yu-taro-trn/yu-taro-trn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Webエンジニア転職に向けた学習・制作物をまとめています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 アプリ開発の成果物
+
+### 🍽 NAGOYAMESHI（Webアプリ）
+**名古屋B級グルメの検索・予約・レビューWebアプリ**  
+- Django を用いたWEB開発  
+
+🔗 実装リポジトリ  
+- [NAGOYAMESHI-kadai_001](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_001)
+
+🔗 要件定義・設計資料  
+- [NAGOYAMESHI-kadai_002](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_002)
+
+---
+
+---
+
+## 📚 学習・課題まとめ
+
+### 🧩 学習課題リポジトリ
+**SAMURAI ENGINEERで取り組んだ課題・演習のまとめ**  
+
+※一部の課題は結果のみを格納していおりますのでご了承ください。
+
+- HTML/CSS基礎
+  - [html-css-basic-kadai](https://github.com/yu-taro-trn/html-css-basic-kadai)
+ 
+- Python基礎
+  - [python-basic-kadai](https://github.com/yu-taro-trn/python-basic-kadai)
+
+- JavaScript基礎
+  - [javascript-basic-kadai](https://github.com/yu-taro-trn/javascript-basic-kadai)
+
+- Bootstrap基礎
+  - [bootstrap-basic-kadai](https://github.com/yu-taro-trn/bootstrap-basic-kadai)
+
+
+## 👤 About Me
+前職：RPAエンジニア  
+現在：Webエンジニア転職に向けて学習中
