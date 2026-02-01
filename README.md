@@ -12,10 +12,10 @@ SAMURAI ENGINEER 修了後の課題として取り組んだアプリ開発
 - Django を用いた Web 開発  
 - 要件定義から実装まで一通り経験  
 
-🔗 実装リポジトリ  
+🔗 要件定義・設計資料  
 - [NAGOYAMESHI-kadai_001](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_001)
 
-🔗 要件定義・設計資料  
+🔗 実装リポジトリ（製作途中）
 - [NAGOYAMESHI-kadai_002](https://github.com/yu-taro-trn/NAGOYAMESHI-kadai_002)
 
 ---
